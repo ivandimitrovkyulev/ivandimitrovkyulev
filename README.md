@@ -23,12 +23,8 @@ Ivan Kyulev
 
 ### Let's connect
 <a href='https://www.linkedin.com/in/ivan-kyulev-a9438873/'>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/
-icons/socials/linkedin.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40">
 </a>
-<br>
 <a href='https://twitter.com/IKyulev'>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/
-icons/socials/twitter.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40">
 </a>
-<br>
