@@ -1,6 +1,8 @@
 Ivan Kyulev
 ===========
 
+✉️Email [ivandkyulev@gmail.com](mailto:ivandkyulev@gmail.com)
+
 ```text
 >> Software developer with solid experience in writing framework style code, integrating third
    party APIs and working on different technology stacks. Creative and outside of the box thinker,
@@ -8,8 +10,6 @@ Ivan Kyulev
    technology, neuroscience, physics, philosophy, economics & finance.
 ```
 -------------------------------------------------------------------------------------------------
-
-✉️Email [ivandkyulev@gmail.com](mailto:ivandkyulev@gmail.com)
 
 ### Skills
 ```text
