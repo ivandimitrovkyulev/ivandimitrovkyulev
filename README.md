@@ -11,13 +11,14 @@ Blockchain, mathematics, physics, economics, finance & trading.
 ### Skill set
 ```text
 Programming Languages
-    • Python, C, Shell, SQL, Javascript, HTML
+    Python, C, Shell, SQL, Javascript, HTML
 Web Development
-    • Django, REST API, Postgres, Celery, Gunicorn, App Engine, WebSockets, AsyncIO, Web3, Concurrency & Multiprocessing
+    Django, REST API, Postgres, Celery, Gunicorn, App Engine
+    WebSockets, AsyncIO, Web3, Concurrency & Multiprocessing
 Data Analysis
-    • Pandas, NumPy, Sklearn, Matplotlib, Jupyter Notebook, Backtesting
+    Pandas, NumPy, Sklearn, Matplotlib, Jupyter Notebook, Backtesting
 Infrastructure & Deployment
-    • Linux, Docker, Google Cloud Products, Git, VMs, CI/CD Pipelines, Unit testing, Poetry
+    Linux, Docker, Google Cloud Products, Git, VMs, CI/CD Pipelines, Unit testing, Poetry
 ```
 
 ### Let's connect
