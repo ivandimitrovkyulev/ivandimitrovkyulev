@@ -13,8 +13,7 @@ Blockchain, mathematics, physics, economics, finance & trading.
 Programming Languages
     • Python, C, Shell, SQL, Javascript, HTML
 Web Development
-    • Django, REST API, Postgres, Celery, Gunicorn, App Engine
-    • WebSockets, AsyncIO, Web3, Concurrency & Multiprocessing
+    • Django, REST API, Postgres, Celery, Gunicorn, App Engine, WebSockets, AsyncIO, Web3, Concurrency & Multiprocessing
 Data Analysis
     • Pandas, NumPy, Sklearn, Matplotlib, Jupyter Notebook, Backtesting
 Infrastructure & Deployment
